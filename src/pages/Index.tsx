@@ -83,7 +83,6 @@ const Index = () => {
         <div className="mx-auto px-4 py-4 flex items-center justify-between">
           <div>
             <h1 className="font-sans font-extrabold text-2xl text-foreground tracking-tight text-blue-500">
-              {/* <span className="text-primary">◈</span>*/}
               <FontAwesomeIcon icon={faMicrochip} /> Simulador de Circuitos Lógicos 
             </h1>
             <p className="text-xs text-muted-foreground mt-0.5 font-medium">
