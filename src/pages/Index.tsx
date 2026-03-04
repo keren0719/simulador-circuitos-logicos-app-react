@@ -82,7 +82,7 @@ const Index = () => {
       <header className="border-b border-border bg-card/80 backdrop-blur-sm sticky top-0 z-10">
         <div className="mx-auto px-4 py-4 flex items-center justify-between">
           <div>
-            <h1 className="font-sans font-extrabold text-2xl text-foreground tracking-tight text-blue-600">
+            <h1 className="font-sans font-extrabold text-2xl text-foreground tracking-tight text-blue-500">
               {/* <span className="text-primary">◈</span>*/}
               <FontAwesomeIcon icon={faMicrochip} /> Simulador de Circuitos Lógicos 
             </h1>
